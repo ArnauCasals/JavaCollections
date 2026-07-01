@@ -1,4 +1,4 @@
-package javaCollections.Restaurant;
+package JavaCollections.Restaurant;
 
 import java.util.Objects;
 

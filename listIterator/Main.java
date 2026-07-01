@@ -1,9 +1,8 @@
-package javaCollections.listIterator;
+package JavaCollections.listIterator;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.ListIterator;
-
 
 public class Main {
     public static void main (String[]args){

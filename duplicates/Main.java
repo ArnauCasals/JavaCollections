@@ -1,4 +1,4 @@
-package javaCollections.duplicates;
+package JavaCollections.duplicates;
 
 
 import java.util.ArrayList;
@@ -42,6 +42,7 @@ public class Main {
 
         System.out.println("-Iterator:");
         Iterator<Month> iterator = monthSet.iterator();
+
         while (iterator.hasNext()){
             Month month = iterator.next();
             System.out.println(month.getName());

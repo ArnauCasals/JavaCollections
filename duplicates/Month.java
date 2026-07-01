@@ -1,4 +1,4 @@
-package javaCollections.duplicates;
+package JavaCollections.duplicates;
 import java.util.Objects;
 
 public class Month {
